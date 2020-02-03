@@ -1,2 +1,2 @@
-# Learning_git
-This repository was created to learn git with.
+Isaac Hammes
+Lab 4: Version Control
