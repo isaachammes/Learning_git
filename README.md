@@ -1,2 +1,3 @@
-Isaac Hammes
-Lab 4: Version Control
+Lab 4: Version Control   
+Isaac Hammes   
+This might cause a merge conflict   
